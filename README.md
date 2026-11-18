@@ -1,6 +1,6 @@
 # PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://huggingface.co/datasets/alibaba-multimodal-industrial-ai/PURE/blob/main/PURE.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.22343-b31b1b.svg)](https://arxiv.org/abs/2611.22343)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-FFD21E.svg)](https://huggingface.co/datasets/alibaba-multimodal-industrial-ai/PURE)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 
@@ -83,10 +83,13 @@ Examples across the four capability dimensions, shown in English. Correct answer
 
 ```bibtex
 @misc{you2026pure,
-  title  = {{PURE}: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching},
-  author = {Hengyu You and Xintong Wang and Jin Cao and Liang Ding},
-  year   = {2026},
-  url    = {https://huggingface.co/datasets/alibaba-multimodal-industrial-ai/PURE/blob/main/PURE.pdf}
+  title         = {{PURE}: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching},
+  author        = {Hengyu You and Xintong Wang and Jin Cao and Liang Ding},
+  year          = {2026},
+  eprint        = {2611.22343},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2611.22343}
 }
 ```
 
